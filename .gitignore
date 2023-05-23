@@ -1,0 +1,30 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Environment variables
+.env
+
+# Build output
+/dist
+/build
+/out
+
+# Testing frameworks
+/coverage
+
+# IDE and editor files
+/.vscode
+/.idea
+
+# Compiled output
+/*.log
+/*.log.*
+/*.swp
+.DS_Store
+
+# Misc
+/.cache
+/.DS_Store
+/.eslintcache
